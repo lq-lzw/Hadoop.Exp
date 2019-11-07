@@ -1,0 +1,4 @@
+com\mypro03\App.class
+com\mypro03\WordCountCombiner.class
+com\mypro03\WordCountMapper.class
+com\mypro03\WordCountReducer.class
